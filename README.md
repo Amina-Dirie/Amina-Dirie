@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Amina Dirie and I'm a Software engineer, from London.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Coding since 2019.<br>📚 I'm currently learning Node Js | TyppeScript | Next Js<br>🎯 Goals: work for Google<br>🎲 Fun fact: I am trilingual.</p>
 
 ###
 

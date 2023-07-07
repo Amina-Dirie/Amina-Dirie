@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2019.<br>📚 I'm currently learning Node Js | TyppeScript | Next Js<br>🎯 Goals: work for Google<br>🎲 Fun fact: I am trilingual.</p>
+<p align="left">✨ fixing Error since 2019 😁.<br>📚 I'm currently learning Node Js | TyppeScript | Next Js<br>🎯 Goals: work for Google<br>🎲 Fun fact: I am trilingual | me and 🍟🍕🍔 are siblings.</p>
 
 ###
 
